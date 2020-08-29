@@ -1,6 +1,7 @@
-# Lucidtech API 
+# Optical-Character-Recognition
 
-Repository for testing the Lucidtech API.
+## Lucidtech
+Repository for checking out the Lucidtech API.
 
 Data source: https://www.kaggle.com/pdavpoojan/the-rvlcdip-dataset-test
 
